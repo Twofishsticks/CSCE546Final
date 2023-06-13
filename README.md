@@ -1,2 +1,3 @@
-# CSCE546Final
-Quick Upload of my CSCE546 final project
+## CSCE 546 Mobile Application - Final Project - Robert Sturman 
+
+
